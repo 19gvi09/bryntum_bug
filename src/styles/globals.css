@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@import '@bryntum/core-thin/core.stockholm.css';
+@import '@bryntum/grid-thin/grid.stockholm.css';
+@import '@bryntum/scheduler-thin/scheduler.stockholm.css';
+@import '@bryntum/schedulerpro-thin/schedulerpro.stockholm.css';
+@import '@bryntum/calendar-thin/calendar.stockholm.css';
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;

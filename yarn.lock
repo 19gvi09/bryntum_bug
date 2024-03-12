@@ -19,6 +19,51 @@
   dependencies:
     regenerator-runtime "^0.14.0"
 
+"@bryntum/calendar-react-thin@^5.6.8":
+  version "5.6.8"
+  resolved "https://npm.bryntum.com/@bryntum%2fcalendar-react-thin/-/calendar-react-thin-5.6.8.tgz#9a8951ea710f19117339af0d4ed3884de509de0f"
+  integrity sha512-5t04hK68W9lnpiSyv2am/KlbMOcE+VCXa3HOEOrzi7NCDoixs0XePZMTkb2n410HzmNFw5iM1f84naAbIEKWBg==
+
+"@bryntum/calendar-thin@^5.6.8":
+  version "5.6.8"
+  resolved "https://npm.bryntum.com/@bryntum%2fcalendar-thin/-/calendar-thin-5.6.8.tgz#79589046577c4495104f4258d93794f75e9d9e77"
+  integrity sha512-oKJYb/sZPqTlJMbuDKYVtN/PJWgfmM2005bW+d/DbLLk+vi4OdLhW7tEWoct8U8Es9BeG675pgM7E6M/QKsGFg==
+
+"@bryntum/core-react-thin@^5.6.8":
+  version "5.6.8"
+  resolved "https://npm.bryntum.com/@bryntum%2fcore-react-thin/-/core-react-thin-5.6.8.tgz#7a224f4a7c235ab76d2fa2b136216dd74ce681f6"
+  integrity sha512-70aLvlLSs1kK3QXob06lLaWnvCOrDLR2YH3iJhUdW7InNSXPzFPW0ZWyMIrKSWaoE17rOes7AH2c7sdM6j+87Q==
+
+"@bryntum/core-thin@^5.6.8":
+  version "5.6.8"
+  resolved "https://npm.bryntum.com/@bryntum%2fcore-thin/-/core-thin-5.6.8.tgz#1aa8f483ed46b0ead1639c06087d548ed8a99587"
+  integrity sha512-s//hDL/kzeZ8ORwHJ82OYvi1IPiW49MYSiDlT1iQz7H4abYuAi825ik2hwMElNVVOdzEVJmLbo4k2B9VRP8Naw==
+
+"@bryntum/engine-thin@^5.6.8":
+  version "5.6.8"
+  resolved "https://npm.bryntum.com/@bryntum%2fengine-thin/-/engine-thin-5.6.8.tgz#35726662183c4e31844129f1bd9c57ee328f0d29"
+  integrity sha512-89mFLUd3ZyawbrkBEGE8xTj3JPJzTp1tw24PywUyONRUOXcfQbcJK4XOe0tNAcxJBrtB5wvVQHFV6tlg9OKuGQ==
+
+"@bryntum/grid-thin@^5.6.8":
+  version "5.6.8"
+  resolved "https://npm.bryntum.com/@bryntum%2fgrid-thin/-/grid-thin-5.6.8.tgz#c8882db792ad56ed4b7a6efb0d6e26aa2df4b7fa"
+  integrity sha512-ZzEX/9lEHg4aBZ4UPQBlNZImW2tkB7ezv/9gYaw5kfLmmocRfJ7VkchjzderWppUAb0Mcg5okz4vtqUS5QO6jA==
+
+"@bryntum/scheduler-thin@^5.6.8":
+  version "5.6.8"
+  resolved "https://npm.bryntum.com/@bryntum%2fscheduler-thin/-/scheduler-thin-5.6.8.tgz#1a951949fe37be3481f2343c94d2d662dae458bd"
+  integrity sha512-ti8X93JMfH2irQpHuWgCDgXWex5vjZ6K6YP3D+I/QTZkyHCukZyb1bRGU6kyYVXKm8mVc9MImvfYsS7IK98mSA==
+
+"@bryntum/schedulerpro-react-thin@^5.6.8":
+  version "5.6.8"
+  resolved "https://npm.bryntum.com/@bryntum%2fschedulerpro-react-thin/-/schedulerpro-react-thin-5.6.8.tgz#3d325627e0970581485c9eb78bb780dcde10f3f3"
+  integrity sha512-kqZyYxczBazwE/Ma93Zds7VNd+ZoUFOc/UM4qdGZ999xpeGH7mvVI4b7a7IhuSebPUtWJt7nbFC4P1G9ldgQjw==
+
+"@bryntum/schedulerpro-thin@^5.6.8":
+  version "5.6.8"
+  resolved "https://npm.bryntum.com/@bryntum%2fschedulerpro-thin/-/schedulerpro-thin-5.6.8.tgz#729f6ab64ef5e20ca89a58ef513e56b3327858b5"
+  integrity sha512-/5heYZjA8a7znZuL19bi/IsIRFEK6YjXRU7EPmFofBkN+/XLQ8M4x64jKNFnisHjBKHG4BVo+AN1cyvKreraCg==
+
 "@eslint-community/eslint-utils@^4.2.0":
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/@eslint-community/eslint-utils/-/eslint-utils-4.4.0.tgz#a23514e8fb9af1269d5f7788aa556798d61c6b59"
@@ -2313,6 +2358,7 @@ streamsearch@^1.1.0:
   integrity sha512-Mcc5wHehp9aXz1ax6bZUyY5afg9u2rv5cqQI3mRrYkGC8rW2hM02jWuwjtL++LS5qinSyhj2QfLyNsuc+VsExg==
 
 "string-width-cjs@npm:string-width@^4.2.0", string-width@^4.1.0:
+  name string-width-cjs
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
@@ -2373,6 +2419,7 @@ string.prototype.trimstart@^1.0.7:
     es-abstract "^1.22.1"
 
 "strip-ansi-cjs@npm:strip-ansi@^6.0.1", strip-ansi@^6.0.0, strip-ansi@^6.0.1:
+  name strip-ansi-cjs
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
   integrity sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==
